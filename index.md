@@ -1,9 +1,21 @@
 
 <html>
+<head>
+  <title>Weather App</title>
+  <link rel="stylesheet" href="font/Rimouski.css">
+  <link rel="stylesheet" href="style.css">
+ </head>
 <body>
-<h1>I can make my own website???!!!</h1>
-<p>And it was way easier than I thought!</p>
-  
-<p>Look Mam! I'm on the interweb!</p>
+  <div class="container">
+    <div class="app-title"><p>Weather</p></div>
+    <div class="notification"></div>
+    <div class="weather-container">
+      <div class="weather-icon"><img src="icons/unkown.png"></div>
+      <div class="temperature-value"><p>- °<span>C</span></p></div>
+      <div class="temperature-description"><p> - </p></div>
+      <div class="location"><p>-</p></div>
+    </div>
+   </div>
+  <script src="app.js"></script>  
 </body>
 </html>
