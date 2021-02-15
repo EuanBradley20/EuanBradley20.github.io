@@ -57,11 +57,10 @@ body {
 </head>
 <body style="background-color: #292930">
 
-<div class="header" id="myHeader">
-    <h1>The Quizzicle</h1>
-</div>
-
 <div class="row">
+  <div class="header" id="myHeader">
+    <h1>The Quizzicle</h1>
+  </div>
   <div class="column" style="background-color: #441166;">
     <h2 style="color:wheat">Column 1</h2>
     <p style="color:wheat">Some text..</p>
