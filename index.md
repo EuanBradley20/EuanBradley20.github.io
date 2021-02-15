@@ -46,7 +46,7 @@ body {
 .sticky{
   position: fixed;
   top: 0;
-  width: 60%
+  width: 65%
 }
 
 .sticky + .content {
