@@ -20,7 +20,7 @@ h2 {text-align: center;}
 
 .column2 {
   float: left;
-  width: 200%;
+  width: 100%;
   padding: 10px;
   height: 400px;
 }
