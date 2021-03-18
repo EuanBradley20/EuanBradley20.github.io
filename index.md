@@ -57,21 +57,21 @@ body {
 
 </style>
 </head>
-<body style="background-color: #292930">
+<body style="background-color: #C5C1C0">
 
 <div class="row">
   <div class="header" id="myHeader">
     <h1>The Quizzicle</h1>
   </div>
-  <div class="column" style="background-color: #441166;">
+  <div class="column" style="background-color: #0A1612;">
     <h2 style="color:wheat">Column 1</h2>
     <p style="color:wheat">Some text..</p>
   </div>
-  <div class="column" style="background-color:#28472a;">
+  <div class="column" style="background-color:#1A2930;">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
-  <div class="column2" style="background-color:#b6b6b6;">
+  <div class="column2" style="background-color:#F7C3E3;">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
