@@ -35,7 +35,7 @@ body {
 .header {
   padding: 10px 16px;
   background: rgb(104, 15, 92);
-  color: #f1f1f1;
+  color: #000000;
 }
 
 .content{
