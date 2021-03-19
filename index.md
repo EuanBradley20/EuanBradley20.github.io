@@ -2,7 +2,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-{
+* {
   box-sizing: border-box;
 }
 h1 {text-align: center;}
@@ -54,21 +54,21 @@ body {
 
 </style>
 </head>
-<body style="background-color: #C5C1C0">
+<body style="background-color: #EE964B;">
 
 <div class="row">
   <div class="header" id="myHeader">
     <h1>The Quizzicle</h1>
   </div>
-  <div class="column" style="background-color: #0A1612;">
+  <div class="column" style="background-color: #2B2D42;">
     <h2 style="color:wheat">Column 1</h2>
     <p style="color:wheat">Some text..</p>
   </div>
-  <div class="column" style="background-color:#1A2930;">
+  <div class="column" style="background-color:#8D99AE;">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
-  <div class="column2" style="background-color:#F7C3E3;">
+  <div class="column2" style="background-color:#EDF2F4;">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
