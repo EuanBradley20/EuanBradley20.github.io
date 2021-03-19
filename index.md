@@ -54,7 +54,7 @@ body {
 
 </style>
 </head>
-<body style="background-color: #EE964B;">
+<body style="background-color: #A7B0CA;">
 
 <div class="row">
   <div class="header" id="myHeader">
