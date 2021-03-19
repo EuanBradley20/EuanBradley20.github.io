@@ -34,8 +34,8 @@ body {
 
 .header {
   padding: 10px 16px;
-  background: rgb(104, 15, 92);
-  color: #000000;
+  background: #000000;
+  color: #f1f1f1;
 }
 
 .content{
