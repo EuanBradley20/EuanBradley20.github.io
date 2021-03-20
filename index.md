@@ -72,6 +72,16 @@ body {
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Column 2</h2>
     <p>Some text..</p>
+    <table border="1">
+      <tr>
+        <th> <b>Team Name</b> </th>
+        <th> <b>Win Total</b> </th>
+      </tr>
+      <tr>
+        <td> Placeholder</td>
+        <td> Placeholder</td>
+      </tr>
+    </table>
   </div>
 </div>
 
