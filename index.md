@@ -72,7 +72,7 @@ body {
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Column 2</h2>
     <p>Some text..</p>
-    <table border="1">
+    <table border="1" style="width:100%">
       <tr>
         <th style="width:50%"> <b>Team Name</b> </th>
         <th style="width:50%"> <b>Win Total</b> </th>
