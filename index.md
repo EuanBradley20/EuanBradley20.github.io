@@ -79,7 +79,7 @@ body {
       </tr>
       <tr>
         <td style="width:50%"> Placeholder</td>
-        <td style="width:50%"> Placeholder</td>
+        <td style="width:30%"> Placeholder</td>
       </tr>
     </table>
   </div>
