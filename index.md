@@ -74,7 +74,7 @@ body {
     <p>Some text..</p>
     <table border="1" style="width:100%">
       <tr>
-        <th style="width:50%"> <b>Team Name</b> </th>
+        <th style="width:100%"> <b>Team Name</b> </th>
         <th style="width:50%"> <b>Win Total</b> </th>
       </tr>
       <tr>
