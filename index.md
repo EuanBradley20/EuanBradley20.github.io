@@ -74,12 +74,12 @@ body {
     <p>Some text..</p>
     <table border="1">
       <tr>
-        <th> <b>Team Name</b> </th>
-        <th> <b>Win Total</b> </th>
+        <th style="width:50%"> <b>Team Name</b> </th>
+        <th style="width:50%"> <b>Win Total</b> </th>
       </tr>
       <tr>
-        <td> Placeholder</td>
-        <td> Placeholder</td>
+        <td style="width:50%"> Placeholder</td>
+        <td style="width:50%"> Placeholder</td>
       </tr>
     </table>
   </div>
