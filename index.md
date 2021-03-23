@@ -67,7 +67,7 @@ body {
   </div>
   <div class="column" style="background-color:#8D99AE;">
     <h2>1 Year!</h2>
-    <p>This weeks quiz marks the official 1 year anniversary of this fantastic group of people coming together to relieve some lockdown stress. Along the way, we've lost members and gained new ones. Let's celebrate how we're all doing great a YEAR on and here's to the quizzes of the future!</p>
+    <p>This weeks quiz marks the official 1 year anniversary of this fantastic group of people coming together to relieve some lockdown stress. Along the way, we've had members leave and we've gained new ones. Let's celebrate how we're all doing great a YEAR on and here's to the quizzes of the future!</p>
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
