@@ -62,12 +62,12 @@ body {
     <h1>The Quizzicle</h1>
   </div>
   <div class="column" style="background-color: #2B2D42;">
-    <h2 style="color:wheat">Column 1</h2>
-    <p style="color:wheat">Some text..</p>
+    <h2 style="color:wheat">Next Host</h2>
+    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: The Bradleys</p>
   </div>
   <div class="column" style="background-color:#8D99AE;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>1 Year!</h2>
+    <p>This weeks quiz marks the official 1 year anniversary of this fantastic group of people coming together to relieve some lockdown stress. Along the way, we've lost members and gained new ones. Let's celebrate how we're all doing great a YEAR on and here's to the quizzes of the future!</p>
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
