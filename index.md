@@ -71,7 +71,7 @@ body {
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
-    <p>NOTE: These totals are a speculation from reading the history of messages in the Quizz Wizz Messenger chat, I cannot say beyond reasonable doubt that these are accurate</p>
+    <p>NOTE: These totals are a speculation from reading the history of messages in the Quiz Wizz Messenger chat, I cannot say beyond reasonable doubt that these are accurate</p>
     <table border="1" style="width:100%">
       <tr>
         <th style="width:20%"> <b>Position</b> </th>
