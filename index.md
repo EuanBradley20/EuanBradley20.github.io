@@ -79,9 +79,44 @@ body {
         <th style="width:50%"> <b>Win Total</b> </th>
       </tr>
       <tr>
-        <td style="width:20%"> Placeholder</td>
-        <td style="width:50%"> Placeholder</td>
-        <td style="width:30%"> Placeholder</td>
+        <td style="width:20%"> 1.</td>
+        <td style="width:50%"> Pinders</td>
+        <td style="width:30%"> 13</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 2.</td>
+        <td style="width:50%"> Colmans</td>
+        <td style="width:30%"> 6</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 2.</td>
+        <td style="width:50%"> Gem, Kev and Fran</td>
+        <td style="width:30%"> 6</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 3.</td>
+        <td style="width:50%"> Hepples</td>
+        <td style="width:30%"> 5</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 4.</td>
+        <td style="width:50%"> Ayron and Ellie</td>
+        <td style="width:30%"> 4</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 4.</td>
+        <td style="width:50%"> Euan</td>
+        <td style="width:30%"> 4</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 5.</td>
+        <td style="width:50%"> Bradleys</td>
+        <td style="width:30%"> 3</td>
+      </tr>
+      <tr>
+        <td style="width:20%"> 6.</td>
+        <td style="width:50%"> Neve and Cameron</td>
+        <td style="width:30%"> 2</td>
       </tr>
     </table>
   </div>
