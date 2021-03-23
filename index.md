@@ -19,7 +19,7 @@ h2 {text-align: center;}
   float: left;
   width: 100%;
   padding: 10px;
-  height: 500px;
+  height: 520px;
 }
 
 .row:after {
