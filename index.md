@@ -70,11 +70,13 @@ body {
   </div>
   <div class="column" style="background-color: #2B2D42;">
     <h2 style="color:wheat">Next Host</h2>
-    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: The Bradleys</p>
+    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: Will Hepple</p>
   </div>
   <div class="column" style="background-color:#8D99AE;">
-    <h2>1 Year!</h2>
-    <p>This weeks quiz marks the official 1 year anniversary of this fantastic group of people coming together to relieve some lockdown stress. Along the way, we've had members leave and we've gained new ones. Let's celebrate how we're all doing great a YEAR on and here's to the quizzes of the future!</p>
+    <h2>Pinders Defeated!</h2>
+    <p>In a shocking sudden death final question, the Pinders were thrown from their winniers podium by Neve and Cameron making their return to the Quiz! Thanks to
+    everyone for being there in our 1 Year Quiz, bring on Year 2!</p>
+    <img src="QuizScreenshot.jpg" alt="hi" class="inline"/>
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
@@ -123,7 +125,7 @@ body {
       <tr>
         <td style="width:20%"> 6.</td>
         <td style="width:50%"> Neve and Cameron</td>
-        <td style="width:30%"> 2</td>
+        <td style="width:30%"> 3</td>
       </tr>
     </table>
   </div>
