@@ -76,7 +76,6 @@ body {
     <h2>Madness</h2>
     <p>Paul Hepple took the standard quiz structure of 5 rounds with 10 questions and said "F$@k that!", with a peculiar yet very entertaining quiz this evening. We also
     say goodbye to Ellie this evening as she prepares to begin work next week. Good luck Ellie!</p>
-    <img src="QuizScreenshot.jpg" alt="hi" class="inline"/>
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
