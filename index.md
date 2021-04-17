@@ -70,12 +70,11 @@ body {
   </div>
   <div class="column" style="background-color: #2B2D42;">
     <h2 style="color:wheat">Next Host</h2>
-    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: The Colmans</p>
+    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: The Pinders</p>
   </div>
   <div class="column" style="background-color:#8D99AE;">
-    <h2>Madness</h2>
-    <p>Paul Hepple took the standard quiz structure of 5 rounds with 10 questions and said "F$@k that!", with a peculiar yet very entertaining quiz this evening. We also
-    say goodbye to Ellie this evening as she prepares to begin work next week. Good luck Ellie!</p>
+    <h2>Back on the board</h2>
+    <p>The Pinders have swept up the champion's belt again this week by a mile with their 67 point victory in the Colmans quiz</p>
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
@@ -89,7 +88,7 @@ body {
       <tr>
         <td style="width:20%"> 1.</td>
         <td style="width:50%"> Pinders</td>
-        <td style="width:30%"> 13</td>
+        <td style="width:30%"> 14</td>
       </tr>
       <tr>
         <td style="width:20%"> 2.</td>
