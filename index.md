@@ -70,11 +70,11 @@ body {
   </div>
   <div class="column" style="background-color: #2B2D42;">
     <h2 style="color:wheat">Next Host</h2>
-    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: The Pinders</p>
+    <p style="color:wheat">The Next Upcoming Quiz is scheduled to be hosted by: Me!</p>
   </div>
   <div class="column" style="background-color:#8D99AE;">
-    <h2>Back on the board</h2>
-    <p>The Pinders have swept up the champion's belt again this week by a mile with their 67 point victory in the Colmans quiz</p>
+    <h2>QUIZ CANCELLED</h2>
+    <p>This weeks quiz was cancelled in a shocking decision from Quiz leadership</p>
   </div>
   <div class="column2" style="background-color:#EDF2F4;">
     <h2>Total Wins</h2>
@@ -88,12 +88,12 @@ body {
       <tr>
         <td style="width:20%"> 1.</td>
         <td style="width:50%"> Pinders</td>
-        <td style="width:30%"> 14</td>
+        <td style="width:30%"> 15</td>
       </tr>
       <tr>
         <td style="width:20%"> 2.</td>
         <td style="width:50%"> Gem, Kev and Fran</td>
-        <td style="width:30%"> 7</td>
+        <td style="width:30%"> 8</td>
       </tr>
       <tr>
         <td style="width:20%"> 2.</td>
@@ -103,12 +103,12 @@ body {
       <tr>
         <td style="width:20%"> 3.</td>
         <td style="width:50%"> Hepples</td>
-        <td style="width:30%"> 5</td>
+        <td style="width:30%"> 6</td>
       </tr>
       <tr>
         <td style="width:20%"> 4.</td>
         <td style="width:50%"> Euan</td>
-        <td style="width:30%"> 5</td>
+        <td style="width:30%"> 6</td>
       </tr>
       <tr>
         <td style="width:20%"> 4.</td>
@@ -118,7 +118,7 @@ body {
       <tr>
         <td style="width:20%"> 5.</td>
         <td style="width:50%"> Bradleys</td>
-        <td style="width:30%"> 3</td>
+        <td style="width:30%"> 4</td>
       </tr>
       <tr>
         <td style="width:20%"> 6.</td>
